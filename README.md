@@ -1,4 +1,4 @@
-# dashboards
+# dashboards-v1
 KIT-Cohort-III CSS Dashboards Project
 
 This is a CSS-based project for week II of your CSS course. It is intended to build up and reinforce your CSS skills. You wouldn't need Javascript for most of the work you will be doing, but feel free to implement Javascript if the need arises.
