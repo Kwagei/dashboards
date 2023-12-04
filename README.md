@@ -7,7 +7,9 @@ You are required to follow the mockups provided as PDFs under ```Week 2``` of th
 <br>
 The due date for this project is December 10, 2023, at 3 pm. 
 <br>
-
+Useful Resources:
+<li>Chart js: https://www.chartjs.org/</li>
+<li>Highcharts: https://www.highcharts.com/</li>
 <br>
 
 **Grading Rubric:**
