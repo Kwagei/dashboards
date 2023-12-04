@@ -6,9 +6,9 @@ This is a CSS-based project for week II of your CSS course. It is intended to bu
 You are required to follow the mockups provided as PDFs under ```Week 2``` of the CSS module in the LMS. 
 <br>
 The due date for this project is December 10, 2023, at 3 pm. 
-<br>
-Useful Resources:
-<li>Chart js: https://www.chartjs.org/</li>
+<br><br>
+**Useful Resources:**
+<li>Chart.js: https://www.chartjs.org/</li>
 <li>Highcharts: https://www.highcharts.com/</li>
 <br>
 
